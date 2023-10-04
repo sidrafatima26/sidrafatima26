@@ -13,6 +13,8 @@
 
 ##### Projects
 
+Most of the projects developed & contributed are on [Replit](https://replit.com/@SidraFatima1). The projects will be cloned on Github soon ;) 
+
 - **Responsive Web Application:** Designed and developed a responsive web application from scratch using HTML, CSS, JavaScript, and React.
   The project demonstrates my ability to create user-friendly interfaces that adapt seamlessly to different screen sizes.
 - **SAP ABAP Custom Solutions:** Developed custom SAP ABAP solutions to enhance business processes and improve efficiency.
