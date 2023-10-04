@@ -29,8 +29,8 @@ Bachelor's Degree in Computer Science & Engineering with specialization in Machi
 
 - [SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50](https://www.credly.com/badges/23451fbc-d739-4667-bd41-8d719fa4fbb6/public_url)
 
-**Contact 📫**
-LinkedIn: [Bio](www.linkedin.com/in/sidrafatima26)
+**Contact**
+LinkedIn: [Bio](https://www.linkedin.com/in/sidrafatima26)
 
 <!---
 sidrafatima26/sidrafatima26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
