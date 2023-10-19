@@ -28,7 +28,8 @@ Bachelor's Degree in Computer Science & Engineering with specialization in Machi
 ##### Certifications
 
 - [SAP Certified Development Associate - ABAP with SAP NetWeaver 7.50](https://www.credly.com/badges/23451fbc-d739-4667-bd41-8d719fa4fbb6/public_url)
-
+- [SAP Certified Citizen Developer Associate - SAP Build Low-code/No-code Applications and Automations](https://www.credly.com/badges/56ec3e00-cec1-49b0-a609-32bb345d3eb5/public_url)
+  
 **Contact**
 LinkedIn: [Bio](https://www.linkedin.com/in/sidrafatima26)
 
