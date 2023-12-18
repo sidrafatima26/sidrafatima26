@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @sidrafatima26. A passionate IT professional dedicated to creating impactful solutions through technology.
+- 👋 Hi, I’m @sidrafatima26. A passionate Software Developer dedicated to creating impactful solutions through technology.
   My journey is defined by a commitment to excellence and a relentless pursuit of innovative solutions.
-- 👀 With a strong technical background and hands-on experience, I specialize in SAP ABAP, SAP BTP Fiori, and SAP BTP iRPA development.
-- 🌱 I’m currently learning ReactJS.
-- 💞️ I’m looking to collaborate on projects on SAP Fiori, Web Development
+- 👀 With a strong technical background and hands-on experience, I specialize in Frontend Development, SAP ABAP and SAP BTP iRPA.
+- 🌱 I’m currently honing my skills in React as a beginner.
+- 💞️ I’m looking to collaborate on projects on Web Development
 
 ##### Skills
 
-- **SAP Development:** Proficient in SAP ABAP, SAP BTP Fiori, and SAP BTP iRPA, with a focus on custom solutions and process optimization.
 - **Front-end Development:** Skilled in HTML, CSS, Tailwind, JavaScript, and React, creating responsive and visually appealing user interfaces.
-- **Automation:** Experienced in leveraging automation technologies to streamline processes and reduce manual effort.
+- **SAP Development:** Proficient in SAP ABAP with a focus on custom solutions and process optimization.
+- **Automation:** Experienced in leveraging automation technologies like SAP BTP iRPA to streamline processes and reduce manual effort.
 - **Linux:** Possess foundational knowledge in Linux administration, enhancing versatility.
 
 ##### Projects
@@ -18,7 +18,6 @@ Most of the projects developed & contributed are on [Replit](https://replit.com/
 - **Responsive Web Application:** Designed and developed a responsive web application from scratch using HTML, CSS, JavaScript, and React.
   The project demonstrates my ability to create user-friendly interfaces that adapt seamlessly to different screen sizes.
 - **SAP ABAP Custom Solutions:** Developed custom SAP ABAP solutions to enhance business processes and improve efficiency.
-- **SAP BTP Fiori Apps:** Designed and implemented SAP BTP Fiori applications with a user-centric approach, delivering seamless user experiences.
 - **SAP BTP iRPA Automation:** Leveraged SAP BTP iRPA to automate critical processes, optimizing operations and reducing errors.
 
 ##### Education
