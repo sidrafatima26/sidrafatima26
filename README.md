@@ -2,7 +2,7 @@
   My journey is defined by a commitment to excellence and a relentless pursuit of innovative solutions.
 - 👀 With a strong technical background and hands-on experience, I specialize in Frontend Development, SAP ABAP and SAP BTP iRPA.
 - 🌱 I’m currently honing my skills in React as a beginner.
-- 💞️ I’m looking to collaborate on projects on Web Development
+- 💞️ I’m looking to collaborate on projects on Web Development.
 
 ##### Skills
 
