@@ -6,7 +6,8 @@
 
 ##### Skills
 
-- **Front-end Development:** Skilled in HTML, CSS, Tailwind, JavaScript, and React, creating responsive and visually appealing user interfaces.
+- **Front-end Development:** Skilled in HTML, CSS, Tailwind, JavaScript, React and Redux creating responsive and visually appealing user interfaces.
+- **Back-end Development:** Skilled in Nodejs, Expressjs, MongoDB, APIs and Routing, Authentication and Authorization, Middleware and Error Handling
 - **SAP Development:** Proficient in SAP ABAP with a focus on custom solutions and process optimization.
 - **Automation:** Experienced in leveraging automation technologies like SAP BTP iRPA to streamline processes and reduce manual effort.
 - **Linux:** Possess foundational knowledge in Linux administration, enhancing versatility.
