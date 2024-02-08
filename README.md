@@ -24,6 +24,7 @@ Most of the projects developed & contributed are on [Replit](https://replit.com/
 ##### Education
 
 Bachelor's Degree in Computer Science & Engineering with specialization in Machine Learning from reputed DIT University (Dehradun) in 2021.
+Comprehensive understanding of computer systems, software development, and computational theory. Gained expertise in programming languages like Java, C++, Python, or JavaScript, along with software engineering principles and specialized electives in areas like artificial intelligence and machine learning (ML). Thorough hands-on projects, internships, and a capstone project,I acquired practical skills to tackle real-world challenges in technology and engineering, that made me well-prepared for careers in ML and beyond.
 
 ##### Certifications
 
